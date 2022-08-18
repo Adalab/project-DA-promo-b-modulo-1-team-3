@@ -1,6 +1,9 @@
-USE projet1_team3;
+DROP SCHEMA project1;
 
 CREATE SCHEMA project1;
+
+USE project1;
+
 CREATE TABLE `data_sql`(
 index_sql INT NOT NULL AUTO_INCREMENT,
 q10_part_1 VARCHAR(255) DEFAULT NULL,

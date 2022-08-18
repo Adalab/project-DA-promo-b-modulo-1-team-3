@@ -1,3 +1,5 @@
+
+USE project1;
 CREATE TABLE tabla_xml (
 index_xml INT NOT NULL AUTO_INCREMENT,
 `time` VARCHAR(25) DEFAULT NULL,
